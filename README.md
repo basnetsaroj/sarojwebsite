@@ -51,13 +51,6 @@ sarojwebsite/
 
 No build tools or package installation are required to view the basic website.
 
-## Deployment
-
-The website is hosted on GitHub Pages and uses a custom domain. Changes pushed to the configured publishing branch are deployed through GitHub Pages.
-
-## Contact
-
-For research collaboration, engineering projects, or professional inquiries, connect with me through [LinkedIn](https://www.linkedin.com/in/basnetsaroj/) or visit my [personal website](https://basnetsaroj.com.np).
 
 ---
 

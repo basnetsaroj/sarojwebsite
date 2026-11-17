@@ -24,11 +24,6 @@ sarojwebsite/
 ├── style.css           # Main website stylesheet
 ├── Photos/             # Photographs and project images
 ├── Videos/             # Project videos and media
-├── blog 1 AI.html      # Standalone HTML page
-├── blog 2 IOE institute.html
-├── fsuweb.html         # Student union website page
-├── fsuwebstyle.css     # Student union page stylesheet
-├── fsuph/              # Related student union files
 ├── CNAME               # Custom domain configuration
 └── README.md           # Repository documentation
 ```

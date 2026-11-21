@@ -209,6 +209,8 @@ p { margin: 0 0 0.9rem; font-size: var(--fs-body); }
 .btn.solid:hover { background: var(--sky); }
 .btn.outline { color: #fff; border-color: rgba(255, 255, 255, 0.45); }
 .btn.outline:hover { background: rgba(255, 255, 255, 0.12); border-color: #fff; }
+.btn.navy { background: var(--navy); color: #fff; }
+.btn.navy:hover { opacity: 0.88; }
 .btn.yt { background: #e62117; color: #fff; }
 .btn.yt:hover { background: #b3150e; }
 
